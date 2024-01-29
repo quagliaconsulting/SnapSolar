@@ -3,7 +3,7 @@ import random
 import numpy as np
 import plotly.express as px
 
-st.title('Solar Broker Company Simulator')
+st.title('SnapSolar Broker Company Simulator')
 
 # Sidebar for inputs
 with st.sidebar:
